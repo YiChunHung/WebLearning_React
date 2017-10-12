@@ -6,6 +6,8 @@
 ## Front-end
 
 1. [React tutorial](https://reactjs.org/docs/installation.html)
+2. [html tutorial](https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/intro?action=lesson_resume&course_redirect=learn-html#)
+3. [CSS tutorial](https://www.w3schools.com/css/default.asp)
 
 
 ## Back-end
